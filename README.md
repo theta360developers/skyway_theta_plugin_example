@@ -1,3 +1,3 @@
 # skyway_theta_plugin_example
 
-Theta PluginでSkywayで双方向で音声映像を流すサンプル
+Streams audio and video directly from the THETA V in two way using [NTT Skyway](https://webrtc.ecl.ntt.com/en/) as the signaling server.
