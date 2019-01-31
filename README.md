@@ -45,4 +45,7 @@ https://github.com/masasutzu/skyway-android-sdk/pull/1
 ## Acknowledgments
 
 Thanks to gogoroya, I noticed the initialization process of the camera I was missing and I could write this article. thank you very much.
+
+---
+
 [Original article in Japanese](https://qiita.com/masasutzu/items/0073116d7d7a36491cd8)
