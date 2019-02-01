@@ -2,7 +2,7 @@
 
 Streams audio and video directly from the THETA V in two way using [NTT Skyway](https://webrtc.ecl.ntt.com/en/) as the signaling server.
 
-[Discussion](https://community.theta360.guide/t/theta-live-streaming-360-video-with-webrtc-direct-from-camera/4082?u=codetricity)  (English)
+[Community Discussion](https://community.theta360.guide/t/theta-live-streaming-360-video-with-webrtc-direct-from-camera/4082?u=codetricity)  (English)
 
 
 This article was [originally published on Qiita in Japanese](https://qiita.com/masasutzu/items/0073116d7d7a36491cd8) by [masasutzu](https://qiita.com/masasutzu).
