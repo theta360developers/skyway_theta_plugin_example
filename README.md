@@ -49,3 +49,6 @@ Thanks to gogoroya, I noticed the initialization process of the camera I was mis
 ---
 
 [Original article in Japanese](https://qiita.com/masasutzu/items/0073116d7d7a36491cd8)
+
+![Analytics](https://ga-beacon.appspot.com/UA-73311422-5/skyway-webrtc-live-streaming)
+
